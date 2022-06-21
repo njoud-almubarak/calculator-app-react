@@ -1,0 +1,36 @@
+body{
+  background-color:rgb(65, 63, 63);
+}
+.App {
+  
+  text-align: center;
+  margin-top:200px;
+  width: 50vh;
+ margin-left: 80vh;
+}
+
+.container-nav{
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+input{
+  margin-top: 3px;
+}
+
+h1{
+  font-family:'Times New Roman', Times, serif;
+  color: white;
+}
+button{
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  width: 15%;
+  
+}
+
+
+
+
